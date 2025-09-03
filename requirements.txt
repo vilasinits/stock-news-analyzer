@@ -1,5 +1,6 @@
---index-url https://pypi.org/simple
---extra-index-url https://download.pytorch.org/whl/cpu
+# --index-url https://pypi.org/simple
+# --extra-index-url https://download.pytorch.org/whl/cpu
+# --only-binary=:all:
 
 streamlit==1.49.1
 feedparser==6.0.11
