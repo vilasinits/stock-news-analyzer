@@ -2,7 +2,6 @@
 # --extra-index-url https://download.pytorch.org/whl/cpu
 # --only-binary=:all:
 
-streamlit==1.49.1
 feedparser==6.0.11
 requests==2.32.3
 yfinance==0.2.43
