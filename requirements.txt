@@ -13,6 +13,6 @@ numpy==1.26.4
 scikit-learn==1.4.2
 plotly==5.22.0
 transformers==4.40.1
-tokenizers==0.15.2
+tokenizers
 torch==2.2.2
 lxml
